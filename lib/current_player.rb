@@ -1,5 +1,5 @@
 def turn_count(board)
-  board.each |slot| do
+  board.each do |slot|
     
 end
 
